@@ -9,3 +9,4 @@ hello git!c
 你好啊，这个是修复分支。
 nihaoa
 12345hot
+这是克隆的代码。
